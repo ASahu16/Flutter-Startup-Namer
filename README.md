@@ -1,6 +1,11 @@
-# startup_namer
+# Flutter Startup Name Generator
+A simple app that generates proposed names for a startup company. The code lazily generates 10 names at a time. As the user scrolls, more names are generated. There is no limit to how far a user can scroll.
 
-### What learned
+## Preview
+
+![Flutter Startup Namer](https://drive.google.com/uc?export=view&id=1umC27BFCxX1jes9RBkODGrXEczfW8qhp)
+
+## Learn
 
 * How to write a Flutter app that looks natural on iOS, Android, and the web
 
