@@ -1,6 +1,20 @@
 # startup_namer
 
-A new Flutter project.
+### What learned
+
+* How to write a Flutter app that looks natural on iOS, Android, and the web
+
+* Basic structure of a Flutter app
+
+* Finding and using packages to extend functionality
+
+* Using hot reload for a quicker development cycle
+
+* How to implement a stateful widget
+
+* How to create an infinite, lazily loaded list
+
+
 
 ## Getting Started
 
